@@ -39,22 +39,25 @@ p3
     color: black;
     font-family:fantasy;
 }
-.trees
+.what
 { 
     font-size: large;
-    padding: 20px;
+    text-size-adjust: 50px;
+    padding: 10px;
     color: black;
+   font-family: 'Times New Roman', Times, serif;
 }
 .animals
 {
     font-size: large;
-    padding: 20px;
+    padding: 40px;
     color: black;
-}
+   font-family: 'Times New Roman', Times, serif;
 
+}
 .ar
 {
-    width: 400px;
+    width: 350px;
 }
 .amazon
 {
@@ -63,10 +66,10 @@ p3
 h6
 {
     font-size: x-large;
-    font-weight: bold;
     text-align: center;
-    padding:15px;
-    color: rgb(192, 97, 8);;
+    padding:50px;
+    color: rgb(192, 97, 8);
+    font-family: courier;
     
 }
 .con
